@@ -53,7 +53,7 @@ const Navbar = () => {
               </div>
             </div>
           </div>
-          {/* NAvbar menu items section */}
+          {/* Navbar menu items section */}
           <div
             className={`flex justify-between items-center md:block ${
               navbar ? "block" : "hidden"
